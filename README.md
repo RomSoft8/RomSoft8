@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Roman Morash 👋
 
-<!--
-**RomSoft8/RomSoft8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Backend / Fullstack Developer
 
-Here are some ideas to get you started:
+Java • Spring Boot • REST API • SQL • Docker • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+* Junior Backend / Fullstack Developer
+* Based in Germany
+* Working with Java and Spring Boot
+* Team project experience
+* Learning and improving every day
+* Open to Junior Backend opportunities
+
+---
+
+## Tech Stack
+
+* Java
+* Spring Boot
+* REST API
+* SQL / MySQL
+* Hibernate / JPA
+* Docker
+* Git / GitHub
+* HTML / CSS / JavaScript
+
+---
+
+## Team Projects
+
+### ONYX Task Tracker
+
+Fullstack team project focused on task and workflow management.
+
+Backend:
+
+* REST API
+* Authentication
+* Database integration
+* Team collaboration with Git workflow
+
+Frontend:
+
+* Responsive UI
+* React-based interface
+* Integration with backend services
+
+---
+
+## Links
+
+* LinkedIn:
+  https://www.linkedin.com/in/roman-morash-210547406
+
+* GitHub:
+  https://github.com/RomSoft8
