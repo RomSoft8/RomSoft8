@@ -1,6 +1,6 @@
 # Hi, I'm Roman Morash 👋
 
-## Junior Backend / Fullstack Developer
+## Backend / Fullstack Developer
 
 Java • Spring Boot • REST API • SQL • Docker • Git
 
